@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="115.37" height="134.668" viewBox="0 0 115.37 134.668">
+<defs>
+    <linearGradient id="linear-gradient" x1="0.256" y1="0.171" x2="1.581" y2="1.3" gradientUnits="objectBoundingBox">
+    <stop offset="0" stop-color="#5a9fd4"/>
+    <stop offset="1" stop-color="#306998"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1.415" y1="1.879" x2="0.943" y2="1.221" gradientUnits="objectBoundingBox">
+    <stop offset="0" stop-color="#ffd43b"/>
+    <stop offset="1" stop-color="#ffe873"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientTransform="translate(0.074 1) rotate(-90) scale(1 0.852)" gradientUnits="objectBoundingBox">
+    <stop offset="0" stop-color="#b8b8b8" stop-opacity="0.498"/>
+    <stop offset="1" stop-color="#7f7f7f" stop-opacity="0"/>
+    </radialGradient>
+</defs>
+<g id="python-logo-inkscape" transform="translate(-5.591 -6.397)">
+    <path id="path1948" d="M60.51,6.4A76.559,76.559,0,0,0,47.7,7.492c-11.346,2-13.406,6.2-13.406,13.937V31.648H61.1v3.406H24.229c-7.793,0-14.616,4.684-16.75,13.594-2.462,10.213-2.571,16.586,0,27.25,1.906,7.938,6.457,13.594,14.25,13.594h9.219V77.242A17.039,17.039,0,0,1,47.7,60.585H74.479A13.509,13.509,0,0,0,87.885,46.96V21.429c0-7.266-6.13-12.725-13.406-13.937A83.629,83.629,0,0,0,60.51,6.4Zm-14.5,8.219a5.11,5.11,0,1,1-5.031,5.125A5.087,5.087,0,0,1,46.01,14.617Z" fill="url(#linear-gradient)"/>
+    <path id="path1950" d="M91.229,35.054V46.96c0,9.231-7.826,17-16.75,17H47.7A13.678,13.678,0,0,0,34.291,77.586v25.531c0,7.266,6.319,11.54,13.406,13.625a44.869,44.869,0,0,0,26.781,0c6.75-1.955,13.406-5.888,13.406-13.625V92.9H61.1V89.492h40.187c7.793,0,10.7-5.435,13.407-13.594,2.8-8.4,2.68-16.476,0-27.25-1.926-7.757-5.6-13.594-13.407-13.594ZM76.166,99.711a5.11,5.11,0,1,1-5.031,5.093A5.06,5.06,0,0,1,76.166,99.711Z" fill="url(#linear-gradient-2)"/>
+    <path id="text3004" d="M463.554,26.909h1.562v-9.8h3.7V15.946h-8.962v1.168h3.7v9.8m6.647,0h1.335V17.962l2.9,8.946h1.486l3.018-8.916v8.917h1.456V15.946h-1.926l-3.3,9.393-2.813-9.393H470.2V26.909" transform="translate(-359.431)" fill="#646464"/>
+    <path id="path1894" d="M81.089,107.088c0,3.848-16.087,6.967-35.931,6.967s-35.931-3.119-35.931-6.967,16.087-6.967,35.931-6.967,35.931,3.119,35.931,6.967Z" transform="translate(16.25 27.009)" opacity="0.444" fill="url(#radial-gradient)"/>
+</g>
+</svg>
