@@ -1,1 +1,0 @@
-# riskykrnawan.github.io
