@@ -1,0 +1,48 @@
+.fs-3 {
+  font-size: 18px;
+}
+.pr-50px {
+  padding-right: 100px;
+}
+.pt-15px {
+  padding-top: 15px;
+}
+.pb-20px {
+  padding-bottom: 20px;
+}
+.pv-15px {
+  padding: 15px 0;
+}
+.pv-4 {
+  padding: 1.33rem 0;
+}
+.pv-2 {
+  padding: 0.66rem 0;
+}
+.pv-1 {
+  padding: 0.33rem 0;
+}
+.p3 {
+  padding: 1rem;
+}
+.p2 {
+  padding: 0.66rem;
+}
+.p1 {
+  padding: 0.33rem;
+}
+.p0 {
+  padding: 0;
+}
+.d-inline-block {
+  display: inline-block;
+}
+.d-block {
+  display: block;
+}
+.text-center {
+  text-align: center;
+}
+.text-bold {
+  font-weight: bold;
+}
