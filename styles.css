@@ -169,21 +169,6 @@ nav ul.navbar-menu li a:hover {
   text-transform: lowercase;
 }
 
-/* justify content */
-.item-start {
-  display: flex;
-  justify-content: start;
-}
-.item-center {
-  display: flex;
-  justify-content: center;
-}
-.item-end {
-  display: flex;
-  justify-content: end;
-}
-
-
 /* font */
 .font-1 {
   font-family: "Open Sans";
@@ -530,6 +515,22 @@ nav ul.navbar-menu li a:hover {
 .right-15 {
   right: 15%;
 }
+
+/* justify content */
+.item-start {
+  display: flex;
+  justify-content: start;
+}
+.item-center {
+  display: flex;
+  justify-content: center;
+}
+.item-end {
+  display: flex;
+  justify-content: end;
+}
+
+
 
 /* grid */
 .parent {
